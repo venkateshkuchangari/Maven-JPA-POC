@@ -1,2 +1,2 @@
-# Spring-boot-JPA-POC
-Added JPA to java spring boot application to do CRUD operations.
+# Maven-JPA-POC
+Added JPA to application to do CRUD operations.
